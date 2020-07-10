@@ -24,8 +24,8 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-vue+koa2移动电商实战
-[](https://www.bilibili.com/video/BV1JE411q7qr?p=2)
+最新前端Vue实战项目之喵喵电影【完】
+https://www.bilibili.com/video/BV1Aa4y147yo?p=4
 
 babel-plugin-import
 
