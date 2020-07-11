@@ -30,5 +30,4 @@ https://www.bilibili.com/video/BV1Aa4y147yo?p=4
 babel-plugin-import
 
 
-git chekout dev
-git merge createComponents --no-ff
+
