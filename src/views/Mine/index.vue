@@ -1,6 +1,9 @@
 <temple>
   <div id='main' >
     <Header title="喵喵电影" />
+    <div id="content">
+      <router-view />
+    </div>
     <TabBar />
   </div>
 </temple>
@@ -11,10 +14,11 @@
     name:'Mine',
     components:{
       Header,
-      TabBar
+      TabBar,
+      Login
     }
   }
 </script>
 <style scoped>
-  
+
 </style>
